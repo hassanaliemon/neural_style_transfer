@@ -21,7 +21,7 @@ The model takes an image and extracts its feature and reduces its size then it d
 
 The implementation is taken from [here](https://github.com/jcjohnson/fast-neural-style)
 
-The learning portion of mine is that, if we carfuly look at waht CNN or other layers caputre then we can use those captured feature to do something out of the box.
+The learning portion of mine is that, if we carefully look at waht CNN or other layers caputre then we can use those captured feature to do something out of the box.
 
 Another thing is to mention that, Document enhancement is possible using the same technique. Thus in future I would try to experiment about Document noise reudction and enhancement as well.
 
